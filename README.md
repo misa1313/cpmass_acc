@@ -3,7 +3,9 @@ This is a bash script to create cPanel accounts in batches.
 
 
 ## Usage
+
 It takes a file in plain text as an input with the following format:
+
 *domain.com username password*
 
 Example:
